@@ -1,0 +1,6 @@
+
+*.jsonl
+*.json
+data/all_text.txt
+*.parquet
+data/OpenAssistant_oasst1_2023-04-12_oasst_all.messages.jsonl.gz
