@@ -1,0 +1,8 @@
+requests
+jsonlines
+tqdm
+fileinput
+torch
+torchvision
+torchtext
+transformers
